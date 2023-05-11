@@ -1,4 +1,6 @@
-# Perception_Project
+# Multi-Modal Object Detection and Depth Estimation with Audio Queries
+
+Overall, the study demonstrates the use of auditory perception when developing robotic systems by carefully integrating audio information in the spatial domain and, thus, harnessing the potential of auditory cues for robotic object localization and identification.
 
 ## :ear: + :eyes: using :hugs:
 
